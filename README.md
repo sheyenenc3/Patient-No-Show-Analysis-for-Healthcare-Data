@@ -7,7 +7,7 @@ https://drive.google.com/file/d/1Mp_zax1N6RITrRBMzWed6CO3M-9ed7YK/view?usp=shari
 ## Project Pipeline & Methodology
 The project follows an end-to-end data analytics lifecycle, transitioning raw operational records into actionable patient risk intelligence through a structured multi-stage pipeline:
 
-* **Data Ingestion & Setup:** Created a relational database schema (healthcare_analytics) in MySQL Workbench to house medical appointment logs and patient demographic records.
+* **Data Ingestion & Setup:** Created a relational database schema (healthcare_analytics) in MySQL Workbench to house medical appointment logs and patient demographic information of 110,528 records.
 * **Data Cleaning & Standardization:**
     1. Renamed non-standard column headers (e.g., Hipertension $\rightarrow$ hypertension, Handcap $\rightarrow$ disability_count, and No-show $\rightarrow$ no_show) to maintain clean SQL querying standards.
     2. Parsed text-based timestamps (ScheduledDay, AppointmentDay) into proper SQL DATETIME and DATE types using string replacement and STR_TO_DATE.
