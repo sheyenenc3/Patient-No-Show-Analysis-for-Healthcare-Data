@@ -38,7 +38,7 @@ The project follows an end-to-end data analytics lifecycle, transitioning raw op
 * **Smart Scheduling Rules:** Advise clinic administrators to optimize booking workflows—such as capping maximum advance booking windows for high-risk patient cohorts or implementing overbooking strategies backed by historical data trends.
 
 ## Dashboard
-
+https://public.tableau.com/app/profile/sheyenen.cortez6697/viz/SQLTableauPortfolioProject_17933273921470/AppointmentNo-ShowDashboard
 
 
  
